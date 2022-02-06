@@ -11,7 +11,7 @@ f = open('data/thinks.txt', 'r', encoding='UTF-8')
 thinks = f.read().split('\n')
 f.close()
 # Создаем бота
-bot = telebot.TeleBot('5118611456:AAEUZ9Uc0_HIN8pbDZt3daObvN-Pq8d6llc')
+bot = telebot.TeleBot('TOken')
 
 
 # Команда start
