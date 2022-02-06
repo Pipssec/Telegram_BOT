@@ -1,7 +1,7 @@
 import telebot
 
 # Создаем экземпляр бота
-bot = telebot.TeleBot('5094470494:AAEpxDdWQhfs0mJ4vVvsLxA6gbbUgH_hYXU')
+bot = telebot.TeleBot('Token')
 
 
 # Функция, обрабатывающая команду /start
